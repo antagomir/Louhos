@@ -1,0 +1,24 @@
+http://titanpad.com/pOjVvZ1Tf8
+
+1. Onko kyseessä jo käynnissä oleva hanke vai uusi idea?
+Käynnissä oleva hanke 
+2. Hankkeen / idean nimi 
+soRvi - suomalainen avoimen datan työkalupakki 
+3. Hankkeen / idean kuvaus*
+Yhteiskunnan julkisten tietoaineistojen määrä on voimakkaassa kasvussa. Talouteen, päätöksentekoon, koulutukseen, terveydenhuoltoon, liikenteeseen ja paikkatietoon liittyvien aineistojen avoimuus ja yhdistely mahdollistaa havainnot, joihin yksittäisillä aineistoilla ei päästä käsiksi. Laaja saatavuus ja käyttö on omiaan nostamaan yhteisten tietovarantojemme arvoa.
+Laskennallisten työkalujen puute on osoittautunut pullonkaulaksi julkisten tietovarantojen laajemmalle hyödyntämiselle, joka edellyttää tavanomaisesti ainakin seuraavia toimenpiteitä: (1) haku; (2) esikäsittely; (3) analysointi ja (4) visualisointi. Nämä vaativat usein teknistä perehtymistä aineistojen esitysmuotoihin ja eri lähteistä saatavien ohjelmistojen käyttöön, mikä nostaa merkittävästi aineistojen käyttökynnystä ja heikentää avoimuutta. Hankkeessa kehitettävä soRvi-paketti vastaa näihin haasteisiin tarjoamalla keskitetyn, kattavan ja avoimen kokoelman laskennallisia välineitä suomalaisten julkisten tietoaineistojen seulontaan ja yhdistelyyn.
+Projekti on toteutettu suomenkielisenä avoimen lähdekoodin projektina, jotta se palvelisi mahdollisimman laajasti suomalaista yleisöä. Vapaaehtoisvoimin kehitetty hanke tarjoaa välineitä jo esimerkiksi Maanmittauslaitoksen, Tilastokeskuksen, Suomen ympäristökeskuksen ja Helsingin seudun ympäristöpalveluiden aineistojen käsittelyyn. Hanke pohjautuu avoimen lähdekoodin R-laskentaympäristöön, jota käytetään laajalti tutkimus- ja yritysmaailmassa. Tämä sallii avointen aineistojen ja avointen analyysimenetelmien saumattoman yhdistämisen. Saatavilla on tuhansia data-analyysimenetelmiä, joita täydennetään nyt suomalaisen käyttäjäkunnan tarpeisiin vastaavalla avoimen datan työkalupakilla.
+Hankkeella on resurssien salliessa mahdollisuudet laajentua nopeasti kattamaan talouteen ja päätöksentekoon kytkeytyviä aineistoja mukaan lukien eduskunnan äänestyspäätökset, arvopaperiomistukset, kuntatason budjettiraportit, tilastolliset vuosikirjat, ääniaktiivisuus jne. Tämä tuottaisi uusia ja kaikkien saatavilla olevia välineitä päätöksentekoon kytkeytyvien tietovarantojen hyödyntämiseen kansalaishankkeissa, journalistisessa työssä ja eri tutkimusaloilla edistäen päätöksenteon läpinäkyvyyttä ja suomalaista demokratiaa.
+4. Mihin hankkeella / idealla halutaan vaikuttaa?*
+Hanke  tuottaa kansalaisille, toimittajille ja tutkijoille uusia välineitä  yhteiskunnan läpinäkyvyyden ja edustuksellisen demokratian toimivuuden  edistämiseksi. Hanke parantaa talouteen, päätöksentekoon ja omaan asuinympäristöön liittyvien tietovarantojen avoimuutta kahdella tavalla - tuomalla esiin kehityskohteita julkishallinnon tietovarantojen avoimuudessa ja tarjoamalla tehokkaita työkaluja, jotka laskevat aineistojen käyttökynnystä. 
+Vuorovaikutteisen blogin ja julkisen wikisivuston kautta ylläpidettävä hanke tarjoaa helposti lähestyttävän  viestintäkanavan ja lukuisia mahdollisuuksia kansalaisten  osallistumiselle. Yleisöltä on saatu jo runsaasti hyödyllistä palautetta  hankkeen jatkokehittämiseen. 
+Aktiivisessa kehitysvaiheessa oleva avoimen lähdekoodin projekti tarjoaa mahdollisuuksia eritasoisiin opinnäytetöihin yläasteilta korkeakouluihin. Osallistuminen tarjoaa opiskelijoille mahdollisuuden kehittää aineistokriittisyyttä ja data-analyysin perusosaamista, joiden merkitys yhteiskunnassa kasvaa, ja olla samalla mukana edistämässä suomalaisten tietovarantojen saatavuutta ja päätöksenteon läpinäkyvyyttä. Opinnäytetöille suunnattu rahoitus olisi siten omiaan edistämään tällä hetkellä vapaaehtoisvoimin kehitettävän hankkeen etenemistä.
+5. Hankkeesta vastaavan / idean keksineen henkilön yhteystiedot*
+Leo Lahti (TkT/VTK) / leo.lahti@iki.fi / +358 40 565 5872
+Juuso Parkkinen (DI) / juuso.parkkinen@gmail.com / +358 50 356 3916
+Joona Lehtomäki (FM) / joona.lehtomaki@gmail.com / +358 40 8269069
+7. Lisätietoja
+Hankkeen kotisivu: http://sorvi.r-forge.r-project.org
+Blogi: http://louhos.wordpress.com
+
+
