@@ -1,0 +1,45 @@
+
+R version 2.14.1 (2011-12-22)
+Copyright (C) 2011 The R Foundation for Statistical Computing
+ISBN 3-900051-07-0
+Platform: x86_64-pc-linux-gnu (64-bit)
+
+R is free software and comes with ABSOLUTELY NO WARRANTY.
+You are welcome to redistribute it under certain conditions.
+Type 'license()' or 'licence()' for distribution details.
+
+  Natural language support but running in an English locale
+
+R is a collaborative project with many contributors.
+Type 'contributors()' for more information and
+'citation()' on how to cite R or R packages in publications.
+
+Type 'demo()' for some demos, 'help()' for on-line help, or
+'help.start()' for an HTML browser interface to help.
+Type 'q()' to quit R.
+
+> library(devtools)
+> document("pkg")
+Loading required package: roxygen2
+Loading required package: digest
+Updating sorvi documentation
+gdata: read.xls support for 'XLS' (Excel 97-2004) files ENABLED.
+
+gdata: read.xls support for 'XLSX' (Excel 2007+) files ENABLED.
+Loading required package: plyr
+
+Attaching package: ‘reshape’
+
+The following object(s) are masked from ‘package:plyr’:
+
+    rename, round_any
+
+General Polygon Clipper Library for R (version 1.5-1)
+	Type 'class ? gpc.poly' for help
+
+Checking rgeos availability: TRUE
+Error in getinfo.shape(filen) : Error opening SHP file
+Calls: document ... parse.files -> lapply -> FUN -> eval -> eval -> readShapePoly
+In addition: Warning message:
+In data(MML) : data set ‘MML’ not found
+Execution halted

@@ -1,0 +1,33 @@
+# Copyright (C) 2011 Leo Lahti <leo.lahti@iki.fi>. All rights reserved.
+
+# This file is a part of the soRvi program
+# http://sorvi.r-forge.r-project.org
+# sorvi-commits@lists.r-forge.r-project.org
+
+# This program is open source software; you can redistribute it and/or
+# modify it under the terms of the FreeBSD License (keep this notice):
+# http://en.wikipedia.org/wiki/BSD_licenses
+
+# This program is distributed in the hope that it will be useful,
+# but WITHOUT ANY WARRANTY; without even the implied warranty of
+# MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.
+
+
+#' Description
+#'
+#' Arguments:
+#'   @param 
+#'   @param 
+#'
+#' Returns:
+#'   @return 
+#'
+#' @export
+#' @callGraphPrimitives
+#' @note 
+#'
+#' @references
+#' See citation("sorvi") 
+#' @author Leo Lahti \email{sorvi-commits@lists.r-forge.r-project.org}
+#' @examples 
+#' @keywords utilities
