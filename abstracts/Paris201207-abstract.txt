@@ -1,0 +1,33 @@
+Louhos - Community-driven Source Code for Open Data in Finland
+
+With open data on decision-making, governance, economics and other
+aspects of society rapidly increasing, there is a clear need for free
+and open tools for the exploration and utilization of the new
+information resources. In particular, unified analyses environments
+are needed that would allow seamless integration of various analytical
+tools across different application domains and open data streams from
+heterogeneous sources. The current solutions are limited to specific
+applications, such as geographical information, economical analyses
+and visualization, forming a bottleneck for modularity and
+reproducibility of the analyses. Another essential element for
+realizing the full potential of the new governmental data resources is
+customization to the local needs within each country or region.
+Louhos (louhos.github.com) is a community-driven project that aims to
+collect a comprehensive code base of source code and tools for open
+data in Finland and to make the analytical tools available through a
+single, organized entry point. The project hosts a comprehensive R
+library soRvi ('turning machine'), which provides programmatic access
+to hundreds of Finnish data resources, and seamless integration to
+professional data analysis and visualization tools. In addition to
+providing data download and preprocessing routines, we develop and
+collect analytical tools, and use these tools for new insights into
+how the society works, through regular blog posts including
+reproducible analyses on local political issues with documented source
+code in local language. The project aims to promote government
+transparency and received a double award in Private Data opening
+category in the national Apps4Finland 2011 competition. We call the
+open data community to launch a network of similar initiatives across
+the globe, suited for local standards and needs and to share the
+efforts, code and fun!
+
+
