@@ -1,0 +1,19 @@
+Ohjeistuksen yleiskuvaus
+
+Perinteiset datakatalogit tarjoavat tietoa avoimen datan saatavuudesta, mutta tämän lisäksi on tarvetta täydentävälle ohjeistukselle erilaisten tiedostomuotojen hakuun ja käsittelyyn. Datawiki luo kokonaiskuvan suomalaisen avoimen datan lähteistä ja sisältää katalogin ohella kattavan kokoelman esimerkkejä ja lähdekoodia aineistojen hakuun ja käsittelyyn.
+
+Minkä datalähteiden hyödyntämistä sovellus helpottaa?
+
+Datawiki tarjoaa tällä hetkellä esimerkkejä noin 20 kotimaisen tietolähteen ja tuhansien yksittäisten aineistojen käsittelyyn mukaan lukien Tilastokeskuksen, Maanmittauslaitoksen, Suomen ympäristökeskuksen, ja muiden tahojen avoimet aineistot. Laskentaympäristöt tarjoavat joustavia välineitä avoimen datan käsittelyyn ja ovat perusedellytyksenä aineistojen tutkimuskäytölle, mutta niiden oppimiskynnys koetaan korkeaksi ja erityisesti kotimaisiin tarpeisiin sovitettujen oppaiden puute on ollut ilmeinen. Suomalainen datawiki korjaa tämän puutteen tarjoamalla selkeitä ja yksityiskohtaisia esimerkkejä aineistojen peruskäytöstä. Esimerkkien lisäksi datawiki toimii tiiviinä katalogina keskeisimpiin kotimaisisiin tietolähteisiin.
+
+Miten ohjeistus on tehty?
+
+Ohjeistus on toteutettu verkossa jatkuvasti täydentyvänä wiki-sivustona, joka sisältää kattavan kokoelman suomalaisen avoimen datan lähteitä ja yksityiskohtaisia esimerkkejä näiden automatisoituun hakuun ja käsittelyyn. Nykyiset ohjeet on tehty R-laskentakielelle, joka on yksi suosituimmista ammattimaisista avoimen lähdekoodin analyysiympäristöistä; oppaan laajentaminen muihin analyysiympäristöihin on suunnitteilla. Oppaan taustalla toimii aktiivinen kehittäjäyhteisö, jolta saa tarvittaessa lisätukea verkossa. Wiki-sivustoa kartutetaan jatkuvasti, ja käyttäjät voivat osallistua oppaan täydentämiseen.
+
+Linkki ohjeistukseen
+
+http://louhos.github.com/datawiki/
+
+Tekijät
+
+Louhos-yhteisö (http://louhos.github.com)
