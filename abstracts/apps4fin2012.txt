@@ -1,6 +1,6 @@
 Ohjeistuksen yleiskuvaus
 
-Perinteiset datakatalogit tarjoavat tietoa avoimen datan saatavuudesta, mutta tämän lisäksi on tarvetta täydentävälle ohjeistukselle erilaisten tiedostomuotojen hakuun ja käsittelyyn. Datawiki luo kokonaiskuvan suomalaisen avoimen datan lähteistä ja sisältää katalogin ohella kattavan kokoelman esimerkkejä ja lähdekoodia aineistojen hakuun ja käsittelyyn.
+Perinteiset datakatalogit tarjoavat tietoa avoimen datan saatavuudesta, mutta tämän lisäksi on tarvetta täydentävälle ohjeistukselle erilaisten tiedostomuotojen hakuun ja käsittelyyn. Datawiki luo kokonaiskuvan suomalaisen avoimen datan lähteistä, ja erottuu perinteisistä datakatalogeista tarjoamalla aineistolistauksen lisäksi kattavan kokoelman esimerkkejä aineistojen hakuun ja käsittelyyn sekä kehittäjäyhteisön aktiivisen tuen.
 
 Minkä datalähteiden hyödyntämistä sovellus helpottaa?
 
