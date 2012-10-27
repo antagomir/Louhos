@@ -1,0 +1,63 @@
+KESKUSTELUA
+
+ * ks. Datavaalien apps4finland kilpailuhakemusrunko: http://datavaalit.muistio.tieke.fi/apps4finland
+ * ks: vanha tiedote: http://datavaalit.muistio.tieke.fi/tiedote
+
+ * Tässä vielä jotain kehitysideoita itse vaalirahoitus-sovellukseen, jos jollain on aikaa koodata https://github.com/kansanmuisti/datavaalit/issues/39
+
+
+ * Huomioita:
+   * Puolueilta, joilla korkea ilmoitusprosentti (esim. PIR, VIHR), on tullut runsaasti ilmoituksia heti alkuu -> asia (oletan että avoimuus) koetaan  tärkeäksi
+     * meidän ei ehkä kannata alkaa tekemän liikaa analyysia, laitetaan joku mehukas fakta kärkeen ja koitetaan houkutella toimittajia kaivelemaan itse lisää ja tekemään itse lisää johtopäätöksiä?
+     * Mikä ettei, yritän kai hahmottaa mikä se mehukas fakta on?
+     * jep... olisi joku sellainen, joka hyötyisi aikasarjadatasta
+     * Itse en oo ainakaan sitä vielä ehtinyt sen kummemmin analysoimaan, joten en osaa sanoa
+     * silmämääräisesti tosiaan voi bongata sen, että: "Puolueet heränneet vaalirahailmoitusten tekoon eri aikoina" ja myös, että aiemmin liikkeelle lähteneet ovat nyt pisimmällä
+   * Suurimpien puolueiden ilmoitusprosentti matala eikä ḿaanlaajuisesti ilmoitusmäärissä ole tapahtunut muutosta
+   * Etenkin suurissa kaupungeissa etenkin VAS on kerryttänyt ilmoituksia tasaisesti ajan kuluessa
+   * Alueellisesti suuret kaupungit aktiivisimpia, etenkin ruotsinkielinen Pohjanmaan vähiten aktiivisia
+
+ * Ennakkoilmoiksen tekeminen on vapaaehtoista ja varsinaisen vaalirahoitusilmoituksen tekevät vaalien tuloksen vahvistamisen jälkeen valitut ja vaalien tulosta vahvistettaessa varaedustajaksi määrätyt.
+ * 
+ * Ilmoitusten muodostama aikasarja tarjoaa itsessään mielenkiintoista analysoitavaa, mutta esimerkiksi itse ilmoitettuja kuluja ja rahoituslähteitä ei ole analysoitu tai visualisoitu ollenkaan (TÄRPPI?)
+
+ * Tässä voi ehkä mainita, että esim. Oikeusministeriön data oli sellaisenaan ihan käyttökelvotonta (hienommin muotoiltuna), joten tehtiin ensin käyttökelpoiset taulukot ja nyt data on myös tietokannassa (onko jo?). Jos siis tämmönen pointti tukee juttua.
+ * Helppokäyttöisessä muodossa olevan päätöksentekodatan heikko saatavuus on tällä hetkellä keskeinen pullonkaula yhteiskunnallisesti vaikuttavassa datajournalismissa sekä demokratiaa ja läpinäkyvyyttä edistävien verkkopalveluiden yleistymisessä.
+ * 
+
+Otsikkoehdotuksia
+ * B: Puolueet heränneet vaalirahailmoitusten tekoon eri aikoina
+ * C: Puoluekohtaisia eroja vaalirahoituksen ilmoitustahdissa
+ * D: Kunnallisvaaliehdokkaiden vaalirahoitus aukeaa hitaasti
+
+-------------------
+
+
+Datavaalit-hanke
+Lehdistötiedote 26.10.2012
+Julkaisuvapaa 
+
+Suurissa kaupungeissa ollaan avoimimpia vaalirahoituksen suhteen
+
+Perjantaiaamuun mennessä vapaaehtoisen vaalirahoituksen ennakkoilmoituksen oli jättänyt 4542 ehdokasta eli noin 12 prosenttia kaikista ehdokkaista. Tilanne kuitenkin vaihtelee huomattavasti paikkakunnan mukaan: aktiivisimpia vaalirahailmoituksen jättäjiä ovat olleet suurten kaupunkien ehdokkaat. Esimerkiksi Jyväskylässä ja pääkaupunkiseudulla jo lähes kolmannes ehdokkaista on täyttänyt ilmoituksen.
+
+Myös puolueiden välillä on selviä eroja: erityisen aktiivisia vaalirahoitusilmoitusten täytössä ovat olleet vihreiden ja piraattien ehdokkaat. Perää pitää perussuomalaiset. Datavaalit.fi-sivuston kuvaajista selviää sekin, että puolueissa on aktivoiduttu ilmoitusten tekoon eri aikoina. Vaalirahoitustietojen kertymistä voi seurata koko maan tasolla tai kuntakohtaisesti.
+
+Datavaalit.fi-sivustolla viranomaisten tarjoama avoin julkinen tieto on jalostettu kaikkien ymmärtämään muotoon. "Palvelu sai alkunsa vapaamuotoisessa ohjelmointityöpajassa, jossa pohdin ääneen, että vaalirahoitusilmoitukset kannattaisi laittaa säännöllisesti talteen. Hankasalmelainen Ville Korhonen tarttui ideaan ja ohjelmoi hetkessä koodin, joka tallentaa vaalirahoitusvalvonta.fi-sivustolla julkaistut tiedot parin tunnin välein", kertoo Antti Poikola, yksi Datavaalit-hankkeen puuhamiehistä. "Viranomaiset eivät tallenna historiatietoa lainkaan", hän jatkaa.
+ 
+Vaalirahoitustietojen lisäksi Datavaalit-sivustolle on koottu myös kuntavaaliehdokkaiden uusimmat päivitykset suosituimmista sosiaalisista verkkopalveluista, Facebookista ja Twitteristä. Säännöllisesti päivittyvällä sivustolla ehdokkaiden viestejä voi katsella kootusti yhdestä paikasta ja tarvittaessa tehdä rajauksia kunnan ja puolueen mukaan. Tällä hetkellä tietokannassa on jo yli 300 000 päivitystä ja määrä kasvaa jatkuvasti.
+
+Kaikki Datavaalit-hankkeen keräämä data on käytettävissä avoimen rajapinnan kautta. Nyt esitellyt visualisoinnit ovatkin vasta alkua: hankkeen tärkein anti on siinä, että se tarjoaa kattavan, keskitetyn tietovaraston kenen tahansa ohjelmoijan käyttöön. Datavaalit-hanke toivottaa kaikki demokratiasta kiinnostuneet koodarit ja datasta kiinnostuneet journalistit mukaan talkoisiin!
+
+Vaalirahoitustiedot visualisoituna:
+http://www.datavaalit.fi/candidates/budgets/
+
+Ehdokkaiden uusimmat päivitykset sosiaalisessa mediassa: http://www.datavaalit.fi/candidates/social/
+
+Lisätietoja:
+
+ * Juha Yrjölä, 050-306 6955, juha.yrjola@kansanmuisti.fi Kansan muisti ry. http://www.kansanmuisti.fi/
+ * Joona Lehtomäki, 040-826 9069, joona.lehtomaki@gmail.com Louhos http://louhos.github.com/
+ * Antti Poikola, 044-337 5439, antti.poikola@gmail.com, Open Knowledge Foundation Finland, http://fi.okfn.org/
+
+
