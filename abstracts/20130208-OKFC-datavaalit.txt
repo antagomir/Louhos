@@ -1,0 +1,14 @@
+Datavaalit (“Data Elections Finland”) is a community-driven initiative
+to crowd-source the collection and preprocessing of election and
+decision-making data in Finland to support transparency, citizen
+participation and data-driven journalism. During the municipal
+elections in 2012, time series data on election statistics between
+2004-2012 concerning 300 Finnish municipalities and over 20,000
+candidates were collected and distributed through the datavaalit.fi
+project site to be utilized by bloggers and journalists. In addition,
+a social media feed aggregate was developed to follow the election
+candidates in Twitter and Facebook. The project was established during
+2012 and is in active development stage. This meetup is intended to
+gather together interested parties to discuss and plan future
+activities of the project in Finland as well as international
+collaboration regarding European parliamentary elections in 2014. 

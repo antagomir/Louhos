@@ -1,0 +1,50 @@
+http://muistio.tieke.fi/opensciencewg
+
+Application draft for OKF Finland Open Science Work Group
+Call for WGs: http://fi.okfn.org/wg/
+Application form: https://docs.google.com/forms/d/1OftpXpcRzxF-FA38vpByuM9_VN_OkMbTWd6bdbhmwEc/viewform
+Etherpad notes from OKFC (have already been merged below): http://fi.okfnpad.org/6?
+Do you have an idea or initiative on the area of open knowledge in Finland? Are you already working together as a group towards open society and culture? Are you seeking a fruitful platform and a vital community to collaborate with? Act now as the call for thematic working groups for Open Knowledge Finland ry. (later OKF FI http://fi.okfn.org/) is open. The OKF FI board accepts applications until March 13, 2013. The applications are public and go through a peer review process on the  association's google+ community  http://bit.ly/15zTe6X.
+----------------------------------------------------------------------------------------------------------------------------------
+What is the name of the suggested working group? *Please write the whole name of the working group and possible acronym 
+Open Science Finland / Avoimen tieteen työryhmä
+Description and objectives of the working group *Please describe shortly the main activities of the group. What are the main objectives of the group in short and in long term? 
+The work group will promote openness in Finnish scientific and academic field and also facilitate the transfer of knowledge from the strong open access movement within science to wider society. Open science refers for instance to open release of data, code, protocols, teaching material, publications, and other research resources. To realize these objectives, the work group will:
+In short term (2013):
+    1. Establish communication networks for the work group
+    2. Collect other relevant resources in a wiki hosted at the OKF Finland web site
+    3. Organize & make more detailed plans
+    4. Arrange a call for projects
+In long term the group aims to:
+    1) Promote open science in Finland by:
+        - Networking of scientists, research institutions and society regarding open science
+        - Establishing and maintaining connections between OKF Finland and other relevant parties  (FINNOA, Academy of Finland, TEKES, CSC, student )societies, universities
+        - Maintaining connections to international OKF Open Science work group(s)
+        - Organizing open science-related events in Finland
+    2) Provide citizen/NGO perspective on open science-related discussions in society such as the development of better funding incentives to promote open science
+    3.(i) Redefine the so-called "third task" ("kolmas tehtävä") of the university institution in a broader sense to mean application of research to solve practical societal problems. (ii)Enhance model-based collaborative problem solving instead of writing 'static reports that nobody reads' (iii) The code basis and the models produced by scientists in research institutions and universities should be open and re-usable for everyone without fees. They should be published in open repositories just like scientific papers.
+    4) Promote open science outside traditional peer reviewed research, e.g. research conducted by non-academic organizations and published in blogs (needs refining)
+    5) Support open research projects (through networks, resources, awards etc.)
+The history and past activities of the working group *What is the background of the group? What past activities have been carried out by the group? 
+In Open Science Round Table session at OKF Finland Convention in Tuusula 8-9.2.2013 we decided to apply for Open Science Working Group status under Open Knowledge Finland ry. The first forum for discussing the working group and the subject matter was established - "Open Science Finland" group in Facebook (http://www.facebook.com/groups/241398182642057/) and there seems to be demand for a WG to promote open science. The community can benefit from networking and promotion opportunities provided the WG, and the WG could give an NGO perspective to Open Science discussions in society. In addition, there are initiatives carrying out open science-oriented activities and would benefit from support and a more official status. For instance "Louhos" research software libraries for open data has already announced its interest to apply for a project status.
+Contact person for the working group *Jos työryhmän yhteyshenkilö on eri kuin ryhmän vetäjä, ilmoita molempien nimet ja yhteystiedot (email ja puhelinnumero)
+Leo Lahti (leo.lahti@iki.fi / +358 40 565 5872)
+Does the working group have an international equivalent in Open Knowledge Foundation? *Please have a look at OKF's working groups http://okfn.org/wg/
+Yes: Open Science (http://science.okfn.org/)
+Has the working group any similarities or synergy with other known themes of working groups? 
+- complements other WGs by providing academic perspective and support
+- technical synergies with Open Government Data & similar WGs related to data/code release
+What support do you hope to get from Open Knowledge Finland ry.? Describe shortly your needs and wishes for the association (e.g. communication channels, funding)
+- Networking opportunities: communication channels are the most important support at least in the beginning.
+- Affiliating with OKF would give a more official status and solid basis for the work group in promoting open science and networking with various parties such as academic institutions and fundingfunding bodies
+- Later the opportunity to handle accounting and server hosting through OKF Finland could appear very useful
+Possible funding opportunities of the working group Describe shortly possible funding instruments and partners 
+Academy of Finland, TEKES, Finnish foundations, appropriate international organizations?
+Current members of the suggested working group *Please list members of the applicant  members names and contact information (email) and possible relevant networks and communities
+The following persons have indicated their interest towards the group:
+
+Open Science Finland Facebook group: http://www.facebook.com/groups/241398182642057/
+OKF Open Science international Work Group: http://science.okfn.org/
++++++++ Footnotes
+4.1)  Additional info: Currently, the third task is understood in a  rather  narrowminded sense to mean one-way communication of the research   results to the general public, i.e. popularization of research. The   broader goal should be to bring the scientists in contact with  practical  problems and offer them a channel to apply their work to  solve these  problems. Examples: open legislation, collaborative urban  planning, open  assessment of governmental programs etc. 
+4.2)  Additional info: We should get rid of the  present publication model of  governmental research institutions (the  so-called  "sektoritutkimuslaitokset") which typically follows the 'if   problem-write report' paradigm leading to a plethora of research  reports  which are usually not optimal for solving practical pressing  problems.  Example: Case environmental crises, Case global financial  crises etc.  The goal should be to establish methods (and test them in  practice) to  share cross-disciplinary knowledge fast and aggregate it  to practical  guidelines without being hindered by partisan or  buraucratic boundaries  between research institutions and so on. The  present way of preparing  reports is very much like preparing the laws:  by invitation only, closed  process from the outsiders, too slow (cf.  public sector ICT planning).
