@@ -2,6 +2,7 @@
 
 # Windows checks:
 # winbuild: http://win-builder.r-project.org/upload.aspx
+# http://win-builder.r-project.org/
 
 #~/bin/R-devel/bin/R CMD BATCH document.R
 ~/bin/R-devel/bin/R CMD check sorvi
