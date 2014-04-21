@@ -12,7 +12,6 @@ build("sorvi")
 print("install")
 install("sorvi")
 
-
 #print("Staticdocs")
 #library(staticdocs)
 #build_package("sorvi", "sorvi-staticdoc") 
