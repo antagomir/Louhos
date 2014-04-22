@@ -1,0 +1,12 @@
+1. git clone git@github.com:rOpenGov/ropengov.github.io.git
+
+2. cd ropengov.github.io
+
+3. git branch --track jekyll-incorporated origin/jekyll-incorporated
+   git checkout jekyll-incorporated
+
+4. Muutokset VAIN tähän haaraan (jekyll-incorporated). Kaikki mikä menee masteriin kirjoitetaan yli.
+
+5. Kun editit valmiita:
+
+  rake site:publish
