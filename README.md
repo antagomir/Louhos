@@ -1,4 +1,0 @@
-Louhos
-======
-
-Louhos utilities
