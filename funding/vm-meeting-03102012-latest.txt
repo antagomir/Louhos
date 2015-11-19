@@ -1,0 +1,208 @@
+Jutta Urpilainen on kutsunut aamukahville avoimen datan merkeissä:
+
+"Valtioneuvosto on avannut maanmittauslaitoksen sekä Ilmatieteen laitoksen dataa avoimeen käyttöön. Muita avoimen datan mahdollisuuksia selvitetään eri ministeriöissä. Kuulen mielelläni näkemyksiä siitä, kuinka miten kasvua ja hyvinvointia saadaan tästä avoimesta datasta, ja mitä julkinen valta voisi jatkossa tehdä avoimen datan aihepiirissä yhteiskunnan hyväksi."
+
+Mitäs terveisiä olisi VM:lle?
+
+Facebook-keskustelu:
+http://www.facebook.com/groups/fi.okfn/permalink/10151267619960628/
+
+Effin koostamia jatko-ideoita:
+http://muistio.tieke.fi/Fc3AlzOCHS
+
+---------
+
+YLEISTÄ
+
+Kun ollaan viemässä Urpilaiselle toiveita ja terveisiä niin en usko että detail tason 'data wish list' on fiksuin tapa. Isommat linjavedot, missä on valtion tason dataportaali, kuka vastaa jatkossa, JulkICT:n rooli jne voisivat olla hänelle oikeampaa asiaa?
+
+Urpilainen haluaa kuulla mitä avoimella datalla voi saada aikaan; innovaatioita, tehokkuutta, läpinäkyvyyttä, uutta bisnestä / palveluita ja palvelujen yhteentoimivuutta. 
+En lähtisi missään tapauksessa ainakaan esittämään mitään valituslistaa "tuokaan ei avannut, eikä tämäkään" -tyyliin. Yhden negatiivisen esimerkin voi nostaa jos esimerkkinä siitä miten hajalla maisema vielä on, mutta muuten ns. "positiivisen kautta".
+
+
+DATA WISH LIST
+Ainakin Jungner kaipaili myös ihan konkreettista listaa, mitä kaikkea pitäisi lähteä avaamaan. Suuret linjat on jo pitkälle päätetty, nyt ollaan hakemassa konkreettisia (ja näkyviä) projekteja, joissa hallinnollinen "drag" on mahdollisimman pieni. 
+
+Konkreettiset datanavaukset ovat hallinnon kannalta suhteellisen yksinkertaisia ja halpoja asioita toteuttaa. Olen samaa mieltä siitä että liikkeellekannattaa lähteä projekteilla jotka ovat hallinnollisest(kin) mahdollisimman kitkattomia. Näkisin myös että samanlaisia hallinnon kannalta helposti ja halvalla toteutettavia asioita voivat olla myös erilaiset käytäntöjen edistämiset, esimerkkinä nuo edellä mainitut avointa dataa hyödyntävät yhteissuunnittelukäytännöt ym.
+
+
+
+
+---------
+Alla olevat pointit siinä järjestyksessä, kuin ne esiintyvät Facebook-keskusteluketjussa. 
+
+Avoin hallinto (OGP)
+Suomi on päättänyt liittyä Open Government Partnership (OGP) -aloitteeseen, joka käynnistettiin 20.9.2011 YK:n yleiskokouksen yhteydessä New Yorkissa. Maailmalaajuisen OGP-aloitteen tavoitteena on entistä läpinäkyvämmän, tuloksellisemman ja tilivelvollisemman hallinnon kehittäminen. Esimerkkinä avoimesta hallinnosta lainsäädännön avoimuus voitaisiin viedä sille tasolle, että jokaisella lain rivillä olisi open source -tyylinen blame-käsite, jotta olisi myös selvää kuka taustataho on minkäkin lainkohdan oikeasti laatinut.
+http://www.vm.fi/vm/fi/05_hankkeet/0238_ogp/index.jsp
+
+
+[miten] Yhteissuunnittelu
+Yritettäessä ratkaista monimutkaisia yhteiskunnallisia ongelmia, jotka vaikuttavat moniin tahoihin, on kustannustehokkuuden kannalta kerätä mahdollisimman laajalti ideoita, kritiikkiä ja näkemyksiä koko suunnittelu- ja toteutusprosessin ajan. Asiasta kiinnostuneilla osallistujilla on monasti merkittävää asiantuntemusta ja hiljaista tietoa, jonka he voivat tarjota yhteisen ymmärryksen synnyttämiseksi ja suunnitelmien laadun parantamiseksi. Suunnitteluun on heti alusta otettava mukaan yritykset, yhteisöt ja ylipäätään ne tahot joita projektin tuotokset jollain tavalla koskettavat. OGP-aloitteen suunnittelu yhteistyössä järjestöjen, yksityisten kansalaisten ja hallinnon kanssa tarjoaa hyvän esimerkin uusista toimintatavoista, joilla voidaan saada myös merkittäviä yhteiskunnallisia säästöjä aikaan.
+
+Esimerkiksi terveystietojärjestelmien suunnittelusta käytävään keskusteluun on GitHubissa ( https://github.com/suomi/potilastietojarjestelma ) jo spontaanisti osallistunut kymmeniä ihmisiä. Monet intressit ovat osallistujien joukossa edustettuina (kaupalliset, ideologiset, yksityiset) mikä on väistämätöntä, eikä mitenkään huono asia. Mukaan pitäisi saada vielä paljon muitakin kuten potilasjärjestöjä, lääkäreitä jne.
+
+Hyviä esimerkkejä ovat myös Kansalaisen osallistumisympäristön suunnitteluprosessi sekä toistaiseksi ilman hallinnon edustajia pyörivä uuden potilastietojärjestelmän suunnittelusta käytävä keskustelu GitHubissa ( https://github.com/suomi/potilastietojarjestelma )
+
+Yhteissunnittelun edistäminen ei edellytä suuria rahallisia panoksia tai raskaita hallinnollisia muutoksia ja sitä voitaisiin aktiivisemmin soveltaa monilla eri päätöksenteon ja suunnittelun osa-alueilla.Yksinkertaisimmillaan yhteissuunnitteluprosessi toteutetaan antamalla osalistujille mahdollisuus dokumentoida omia huomioitaan ja kritiikkiiään suunnitelmadokumentteihin. Näin toimittiin mm. Oikeusministeriön aloitteesta Osallistumisympäristön lausuntapalveludokumentaation osalta (http://www.mahdollista.fi/2012/06/26/hankinta-asiakirjojen-avointa-kommentointia-google-docsilla/). Hieman pidemmälle jalostetussa toimintatavassa voitaisiin pyytää myös ratkaisuehdotuksia tai yhdistellä eri tahojen esityksiä. 
+
+
+Oikeus omaan dataan
+Kasvua ja hyvinvointia saadaan, kun tilastojen tms. avoimen jakelun lisäksi annetaan ihmisille mahdollisuus vapauttaa itseään koskevat tiedot järjestelmistä. Ks. brittien Midata, jenkkien Smart Disclosure ja ranskalaisten Mesinfos. Julkisen avoimen datan keskustelun rinnalle tulisi siis nostaa ihmisten oikeus heitä itseään koskevan datan saamiseen koneluettavassa muodossa ja halutessaan sen edelleen luovuttamiseen. Julkisella puolella tämä koskee niin verottajan hallussa olevia verotietoja, kuin kirjaston hallussa olevaa lainaushistoriaakin ja yksityisellä puolella esimerkiksi kauppaketjujen bonuskorttidataa ja lukuisia erilaisia verkkopalveluita. Voiko Suomessa edistää Personal Dataa esim. jonkinlaisena yksityisen ja julkisen sektorin yhteishankkeena Midatan tapaan?
+http://blogit.yle.fi/aikaleima/datakansalainen-harri-juntunen
+ Palvelusuunnittelussa on yleensäkin huomioitava henkilökohtaisen datan kerääminen, jakaminen ja jalostaminen. Tämä mahdollistaa (1) henkilökohtaisen elämän suunnittelun
+ja optimoinnin (2) laadukkaamman yhteiskunnalisen päätöksenteon, joka pohjautuu anonymisoituun ja vapaaehtoisesti luovutettuun  tutkimustietoon johtavaan dataan
+(3) moninaisia liiketoimintamahdollisuuksia tietoanalyysityökaluista kansantaloudellisiin näkökohtiin liittyen esim. energiankäyttötapoihin, kulutustottumuksiin sekä kansanterveyteyteen.
+Julkishallinnon hallussa olevaa kansalaisia koskevat tiedot ovat yleensä olleet viranomaisten saatavilla (kunhan asiasta säädetään laki) ja jossakin määrin myös tarjolla yksityisille toimijoille (VRK kai myy henkilötietoja väestötietojärjestelmästä). Kansalaisen vaikutusmahdollisuudet häntä koskevien tietojen käyttöön ovat olleet vähäiset. (VRK:lle voi tehdä tietojenantokiellon tms.)
+Voisiko ajatella, että esimerkiksi kansalliseen terveysarkistoon toteutettu/toteutettava omien terveystietojen käyttöä koskeva suostumusten hallinta laajennettaisiin koskemaan muitakin tietoja (väestötietojärjestelmä, ajoneuvorekisteri, verottajan tiedot)? Henkilö voisi itse ainakin jollakin tasolla ottaa kantaa siihen, mihin tarkoitukseen ja mille toimijoille häntä koskevia tietoja voi luovuttaa. ("Minun terveys- ja verotietojani saa hyödyntää suomalaisessa korkeakoulussa tehtävässä tieteellisessä tutkimuksessa.")
+Itseä koskevat tiedot pitäisi voida antaa myös yksityisen sektorin toimijoiden käyttöön. Ja julkisen sektorin käytöstä pitäisi jäädä merkintä, jonka avulla henkilö voi itse seurata, ketkä ovat käyttäneet hänen tietojaan ja mihin tarkoituksiin. (Virossa kai toimitaan näin.)
+
+Data Human Rights -ajattelua kannattaa rummuttaa. Varmaan porukat tiesivätkin että USAssa on helmikuussa hyväksytty "Consumer Bill of Data Rights" - http://www.whitehouse.gov/sites/default/files/privacy-final.pdf
+
+
+
+Open Government Data Census datat auki
+Petri voitko tarkentaa ja suomentaa?
+http://dashboard.opengovernmentdata.org/census/
+
+
+Sääntelystä
+Jos sääntelyä mietitään, niin vähän on hyvä, vähemmän parempi. Lähinnä pitäisi pyrkiä purkamaan datan avaamisen esteitä nykylainsäädännöstä, mutta uusia datan avaamista edistäviä lakeja ei ehkä tarvita. Sekä viranomaisten että yksityisten toimijoiden tulisi itse nähdä avaamisen hyödyt. Niin tulee parempia tuloksia kuin lain pakottamana avaamalla. Internet on saanut kehittyä aika pitkään ilman sääntelyä. Esim. teleoperaattoreita sen sijaan säädellään kovasti. Avoimen datan osalta tarvitaan mieluummin Internet-tyyppistä innovaatiota kuin telco-tyyppistä. Ei isoja standardointikoneistoja vaan kaikille mahdollisuus keksiä ja kehittää.
+
+
+Positiiviset ulkoisvaikutukset
+Tärkeää tunnistaa, että positiivisten ulkoisvaikutusten ennustaminen on haasteellista eikä kellään ole tällä hetkellä selvää vastausta siihen minkälaisia ja miten taloudellisesti merkittäviä innovaatioita avoimen datan ympärille syntyy lähivuosina. Riski kannattaa ottaa; iso joukko ihmisiä sekä Suomessa että maailmanlaajuisesti hakee juuri nyt intensiivisesti ratkaisuja näihin kysymyksiin. 
+
+Lupaavia kotimaisia avauksiakin jo on, näistä voitaneen mainita esimerkiksi Parkkinappi, BlindSquare, ja avoimen paikkatiedon konsulttipalvelut. Digitaalisten informaatiovirtojen mahdollisimman kattava avaaminen luo nyt parhaat edellytykset innovatioille.
+
+Yritystoiminnan lisäksi tärkeä aspekti on kansalaisten osallistumismahdollisuuksien ja päätöksenteon läpinäkyvyyden kasvu, josta meillä jo alkaakin olla erinomaisia esimerkkejä: avoinministerio.fi, osallistuvabudjetointi.fi, kansanmuisti.fi, datavaalit.fi, hahmota.fi jne.
+
+
+Avoimen datan liiketoimintamallit
+http://www.jenitennison.com/blog/node/172
+
+
+[data wish list] Talousdatan avaaminen
+kaikenlaisen julkishallinnon talousdatan avaaminen mahdollisimman tarkalla tasolla hyödynnettäväksi OpenSpending yms. avoimilla alustoilla
+
+
+Data.suomi.fi
+Julkishallinnon virallisen dataportaalin edistäminen mahdollisimman nopeasti ja CKAN pohjaisena. Kattavaa katalogia yhteiskunnan avoimista tietoaineistoista ei tällä hetkellä ole saatavilla. Tämä rajoittaa aineistojen löydettävyyttä, saavutettavuutta, yhdistelyä ja hyödyntämistä. Katalogia voitaisiin ylläpitää edullisesti jo käynnissä olevien yleishyödyllisten hankkeiden pohjalta (esim. Datahub Suomi tms.), mutta jatkuvuuden turvaamiseksi olisi tarpeellista, että valtionhallinto osallistuisi ylläpitokustannuksiin. Näin saisimme ajan mittaan kerättyä tiedot suomalaisesta avoimesta datasta mahdollisimman kattavasti yhteen paikkaan ja kaikkia hyödyntämään. 
+
+
+[data wish list] Reaaliaikadata
+Olisi myös hienoa saada Suomelta jonkinlainen kokonaan uusi avaus että ei tarvisi vain kopioida muita. Esimerkiksi realiaikaisia datavirtoja verovaroin tuotetuista infrastruktuuripalveluista esim liikenteen, energian ja veden alueilta?
+
+
+[data wish list] Sähkö / vesipuolen data
+Sähkö / vesipuolen data (silloin kun sitä on olemassa) on tällä hetkellä perinteisten sähköyhtiöiden yms. hallussa aika tiukasti. Mielenkiintoista olisi se että uusien rakennusten mittareista olisi mahdollista saada avointa dataa joka voitaisiin yhdistää vaikka itse kehitettyihin building dashboard ja kotiautomaatio-järjestelmiin. Valtiollakin olisi varmasti intressiä saada omia kustannuksiaan paremmin visualisoitua niin että näkisi mitkä toimistorakennukset yms. kiinteistöt vievät eniten sähköä. Sen jälkeen voisi paremmin oikesti kehittää asioiden tekemistä.
+http://www.greenbuttondata.org/
+
+Suuret linjat
+Avoin data on raaka-ainetta digital commonsille, (täydentämää yksityinen-julkinen oikeisto/vasemmisto yhteiskuntamallia). Bauwensin perjantain luento (löytyy commons.fi sivuilta) tarjoaa positiivisen vaihtoehdon globaaleihin ongelmiin (esim. avoin c02-data). 
+Suomi voisi olla edelläkävijä tässä pikku sisar välittää yhteiskuntamallissa vs. orwell iso veli valvoo malli.
+ * lisääntynyt (kansalaisten ja yritysten) osallistuminen ja läpinäkyvyys, virheiden(tuhlaus/huijaaminen/korruptio) nopea löytäminen, nopeampi innovaatiosykli ....
+ * verkostotalouden lait toteutuvat: aritmeettinen kasvu solmuissa nostattaa verkoston arvoa eksponentiaalisesti, alussa hitaasti, case wikipedia/linux/microsoft tosi hidas alku, mutta leimahduspisteen (tipping point) jälkeen räjähtävä kasvu
+ * Suomessa avoimuuden/talkkoo tekemisen kulttuuri, valtioneuvoston periaate päätökset, virastojen (kartta/ilmasto) ainut/korkealaatuiset datan avaamiset
+
+[data wish list] Lainsäädäntödata
+Käytännössähän Edita pyörittää OM:n rahoilla Finlexiä ja tekee sillä omaa pientä businesta, kun kellään muulla ei ole koneluettavaa pääsyä ajantasaiseen lainsäädäntöön.
+
+[data wish list] Työvoimatoimistot
+Duunitori ( http://info.duunitori.fi/ ) ei saa vieläkään dataa rajapinnan kautta.
+hallituksen päätöskään ei aina riitä, koska monesti asiat juuttuvat koneistoon. Näin on käynyt mm. TEM:ssä, joka ei syystä tai toisesta halua tarjota mol.fi:n "avoimia" työpaikkailmoituksia helposti edelleen jaettavaksi. (Mol:n ilmoitukset käsittävät muuten ylivoimaisesti suurimman osan kaikista Suomessa julkaistavista työpaikkailmoituksista, tyyliin 3 x monster & oikotie yhteensä). Julkinen vaihtoehto toki tarvitaan, mutta yhdessä yksityisten toimijoiden kanssa voisi löytyä tehokkaampia ja luovempia ratkaisuja.
+
+Kun Duunitori.fi -palvelu julkaistiin syksyllä 2010, kehittäjät kävivät ministeriössä juttelemassa aiheesta ja asia sai poliittista kannatusta. Ministeriö ei kuitenkaan ollut halukas tarjoamaan dataa ulos, puhumattakaan mahdollisuudesta, että yksityisen palvelun kautta jätetyt ilmoitukset näkyisivät suoraan mol:ssa. Ministeriöllä on tekniset rajapinnat olleet vuosikausia jo olemassa, mutta niitä ei avata.
+
+Nyt kaksi vuotta myöhemmin Duunitori.fi toimii edelleen itse tehdyllä hakurobotilla, mutta se toimisi huomattavasti paremmin jos rajapinnat avattaisiin. Samaan aikaan ministeriö rakentaa julkisin varoin, mutta yksin uutta työvoimaviranomaisten verkkopalvelua.
+
+ * TEM on vastikään asettanut Julkisten tietovarantojen avaaminen TEM:n hallinnonalalla -työryhmän, joka voinee katsoa myös työpaikkailmoitusdatan avaamista.
+
+
+Tekijänoikeuslainsäädäntö
+Datan avaamistoimien lisäksi samassa yhteydessä olisi hyvä katsoa tekijänoikeuslainsäädäntöä kokonaisuutena ja katsoa josko tilannetta voisi tältä osin sujuvoittaa.
+ * Ylen aineistojen ottamisesta seuraavaksi kärkiprojektiksi.
+ * Selkeä tutkimuspoikkeus tekijänoikeuslakiin: Data-aineistot pitäisi saada selkeästi laillisesti käytettäväksi tiedon louhintaan tutkimuskäytössä - tähän ei selkeästi päästä nykyisellä sopimuslisenssijärjestelmällä (Kopioston digilupa on täysin riittämätön (ja kallis))
+ * Yllä esitetty tutkimuskäyttölisensointi pitäisi mahdollistaa myös henkilökohtaisen datan käytölle, esim. kansanterveyteen liittyvissä asioissa.
+
+
+Lisensointi
+Valtionhallinnon tulisi myös varmistaa, että avointen lisenssien tarpeellisuus datan avaamisen yhteydessä ymmärretään ja otetaan kattavasti käyttöön.
+
+
+Maksuperustelaki ja tietopoimintojen hinnoittelu
+http://www.facebook.com/groups/fi.okfn/permalink/10151141165365628/
+ * Case Eduskunnan data: Pyydettiin rajattua poimintaa eduskunnan sivuilta löytyvistä tiedoista  (mm edustajien nimet, perustiedot, id:t, äänestykset) koneluettavassa muodossa. Vastaus oli: "Kyllähän Tieto näitä tekee toimeksiannosta, joka lienee tässä tapauksessa määriteltävissä hyvinkin tarkasti. Voitte pyytää hintatiedon Akin kanssa Sari Helisniemeltä. Maksajana on maksuperustelain mukaan vaalilupausarkisto eli luovutamme tiedot omakustannushintaan. Meiltä tarvitaan hyväksyminen tiedon poiminnalle tietokannoistamme." Hintalapuksi laitettiin 100 000 eur, joka muodostui 50 000 eur Tiedon työ ja 50 000 eur tiedon oma työ. Esim Kansan muistin Juha Yrjölä arvioi, että poiminnan työmäärä olisi luokkaa joitakin tunteja. Tässä tapaukseessa tietohallinto pidätti itsellään oikeuden määritellä, mikä on hyödyllinen tapa käyttää tietoja, ja kansalaistoimijoiden näkökulma ei ollut sitä. 
+ * Case väestörekisteridata: Yritin saada Väestötietojärjestelmästä simppeliä poimintaa lehtijuttua varten. Kävi ilmi, että poimintojen tekeminen tietojärjestelmästä on ulkoistettu. Koneen käynnistäminen toimituksellista (=kaupallista, siellä ajatellaan) tarkoitusta varten maksaa noin 1000 euroa ja tutkimustarkoitusta (väikkärit, gradut) varten on kilpailutettu palveluntarjoajilta katteeton hinta, jolloin poimintojen hinnat alkavat noin 600 eurosta.
+
+
+Open Knowledge Festival
+Tämän vuoden maailman avoimen tiedon päätapahtuma järjestettiin Helsingissä, yli 1000 osallistujaa, joista enemmän, kuin puolet kansainvälisiä vieraita. Avoimuudella Suomi voi myös profiloitua halutessaan.
+
+
+Ketterä rahoitus
+Pitää esillä pienten pilottiprojektien nopean rahoituksen tarvetta. TEKESin avoimen data strategiasta olisi hyvä kanssa olla selvillä - nopean/mikro- rahoituksen joukkoja kaipailisin
+
+
+JulkICT:n rooli
+Kuka vastaa jatkossa avoimen datan kehityksestä Suomessa ja miten?
+
+
+[data wish list] Tilastokeskuksen ruututietoaineisto
+Moni on toivonut Tilastokeskuksen ruututietokannan avaamista.
+
+
+Avoin data julkisten menojen pienentämisessä
+Löytyykö hyviä esimerkkejä tai teesejä siitä, kuinka avoin data voi pienentää julkishallinnon toimintamenoja? Menojen vähentäminen tuskin tulee tapahtumaan virkamiesten toimesta, onko avoimesta datasta ratkaisuksi?
+
+
+Toimenpidealueita avoimen datan asian edistämiseksi:
+ * valtiolle "toimintatiimi" 3-5 henkeä joka alkaa heti  käynnistämään ja tukemaan datanavausprojekteja
+ * datan ylläpito ja jakelu, datawarehousing
+ * datan harmonisointi ja yhteentoimivuus
+ * datan anonymisointipalvelut (http://juerkkil.iki.fi/ahip/ <--jatkokehitys?)
+ * avoimen datan kouluttaminen julkishallinnossa, ml. tietojärjestelmien avoimuusvaatimukset uushankinnoissa jne.
+ * avoimen datan bisnesmallien kokeileminen, liiketoimintapuolen aktivointi, valikoituja piristysruiskeita, pilotteja niiden kanssa joilla on ideoita
+
+
+Kuntien datan avaaminen
+Kuntien tietotuotteitten avaamisen korvaus lämmittäisi varmasti monen "pikkuvirkamiehen" mieltä. MML:n esimerkkiä käyttäen, valtio voisi vaikka tehdä "best practises" -tyyppisen selvityksen kuntien tietotuotteista, jotka kannattaisi avata. Saataisiin se kuntien korvausten pyytäminen kääntymään keskusteluksi "henkiinjäämisen" keinoista avoimen datan avulla.
+
+Tämä asia ei varmaan etene ennen kuin "menetetyt myyntitulot" nostetaan keskusteluun konkreettisella tasolla. Niiden pieneneminen olisi mielenkiintoinen alaspäin laskeva käyrä, mutta illusio elää... Isoa osaa tuloista saadan pidettyä yllä, kun asiakkaiden on pakko ostaa ne lupien saamiseksi ym. Kun tuotteista on aiemmin saatu tuloa ja nyt pitäisikin itse panostaa ilmaisen jakeluun...tähänhän pitäisi saada jostain korvaus!
+
+'Korvaus' tarkoittanee 'menetettyjä myyntituloja' + tarvittavat investoinnit datan saatavuuden ja helppokäyttöisyyden parantamiseen + ? Jos myyntituloja ei ollut, jää tämä pois.
+
+
+
+Avoimen datan huomioiminen hankintojen yhteydessä
+ * Valmisteilla oleva kansalaisaloite. http://www.avoinministerio.fi/ideat/julkisten-it-hankintojen-pitaisi-olla-lahtokohtaisesti-avointa-lahdekoodia
+ * Lakiehdotuksen muotoilua tarkoitus tehdä Open Data -yhteisön voimin lähikuukausina.
+ * Tässä ei kuitenkaan kannattaisi rajoittua dataan tai softaan, vaan pyrkiä siirtymään yleisemmin USA-tyyliseen julkisesti tuotettu aineisto on public domainia -periaateeseen
+
+Julkisesti rahoitettu tutkimus- ja hanketoiminta
+Lisäksi julkisrahoitteisiin hankkeisiin (tyyppiesimerkkinä akatemiarahoitus ja elokuvasäätiön tuki) pitäisi sisällyttää ainakin tutkimus ja -koulutuskäytön mahdollistavat OA-lausekkeet.
+
+
+Yliopistojen ja tutkimuslaitosten tuottama tieto suoremmin osaksi päätöksentekoa
+ * Ongelma: Sektoritutkimuslaitosten ja yliopistojen tuottamaa tutkimustietoa ei aktiivisesti linketetä päätöksentekoon ja suunnitteluun. Pitäisi saada aikaan samantyyppinen ajattelu- ja toimintatapojen muutos kuin hallinnon avoimen datan kanssa, eli lähtökohtaisesti tutkimuksten tekemisessä ja julkaisemisessa jo tähdättäisiin siihen että tieteellisen panoksen lisäksi tutkimustuloksia  tullaan käyttämään soveltavasti yhteiskunnallisten ongelmien ratkaisemiseen. Suuri osa tutkimustuloksista ja niiden tuottamiseen käytetyistä ohjelmistoista, mittauslaitteista ym. jää pölyttymään laboratorioiden nurkkiin ja tutkijoiden kovalevyille jahka julkaisut, joiden tuottamiseen nykykäytäntö pelkästään keskittyy, on saatu tehtyä. Ohjelmistojen, datan ym. uusikäyttö ja jakaminen on siis hyvin suppeaa, parhaimmillaan saman tutkimusryhmän sisällä tapahtuvaa. Muutamia poikkeuksia lukuunottamatta tutkimuslaitosten tuottamaa tietoa voidaan hyödyntää huomattavasti nykyistä enemmän
+ *  (ks. http://www.hs.fi/paakirjoitukset/Valtiolle+200+miljoonan+ajatuspaja/a1348307919912). Ottamatta kantaa siihen pitäisikö sektoritutkimuslaitokset yhdistää todettakoon että ilman varsinaisia hallinnollisia ja rakenteellisiakin muutoksia voitasiin tutkimuksen yhteiskunnallisen vaikutuksen parantamiseksi yksinkertaisesti muuttaa toimintatapakulttuuria jakamista palkitsevammaksi ja yhteistyöhön kannustavaksi. Mikäli tulosta mitataan vain perinteisillä akateemisilla mittareilla, kuten vertaisarvioitujen julkaisujen määrällä ja laadulla, ei vaikuttavuutta synny. Vaikuttavuutta syntyy kun (1) tutkimusaineistot ovat helposti löydettävissä ja hyödynnettävissä (ks. alla) (2) tutkijat saavat meriittiä siitä että he auttavat aktiivisesti soveltamaan tutkimustuloksiaan käytännön ongelmien ratkaisuun (3) hallinto pyytää tutkijayhteisön apua aktiivisemmin ja organisoidummin kuin nykyään, esim. ylläpitämällä ratkaistavien ongelmien julkista ranking-listaa, järjestämällä ongelmanratkaisukilpailuja ja sallimalla vapaan osanoton. Koska monet ongelmat ovat poikkitieteellisiä, täytyy yhteistyöhön rohkaista yli tiedekuntarajojen. Insinööritieteiden puolella moni opinnäytetyö tehdään jo yhteistyössä teollisuuden kanssa mutta perustieteiden ja humanististen tieteiden puolella olisi selkeitä mahdollisuuksia tehdä nykyistä enemmän yhteistyötä hallinnon kanssa isompien ongelmakokonaisuuksien ratkaisussa. Asian käytännöllistä organisointia voidaan edistää monien olemassaolevien projektinhallintatyökalujen avulla mm. pilkkomalla käytännön suunnitteluongelmia sopiviksi gradu- tai harjoitustöiksi, perustamalla resurssipankkeja, joissa tutkijat voisivat ilmoittaa mielenkiintonsa ja osaamisalueensa tietyntyyppisiä haasteita varten jne. Yllä ehdotetut toimintatavat eivät millään muotoa estä normaalien akateemisten meriittien keräämistä, kysymys on vain mielenkiinnon kohdistamisesta organisoidummalla tavalla.
+ *  Tutkijayhteisön käytäntöjä on ohjattava suuntaan jossa (1) soveltamista arvostetaan (2) ripeätahtiseen toimintaan kannustetaan (käytännön ongelmat on tyydyttävä ratkomaan 'riittävän' hyvin äärellisessä aikaikkunassa) (3) täydellisyyden tavoittelusta luovutaan ja korjataan kurssia sitä mukaa kun aihetta ilmenee ketterien menetelmien tyyliin (4) kannustetaan viemään tutkimusanalyysit aina käytännön politiikkasuositusten ja vaikutusarviointianalyysien tasolle asti. Näin toimitaan jo esim. Terveyden ja hyvinvoinnin laitoksen Opasnetissä (http://fi.opasnet.org/, http://en.opasnet.org/)
+ * Ehdotetut uudet käytännöt, joita hallitusohjelman mukaisesti voidaan edistää:
+   * Kaupunkisuunnittelu-, energiatehokkuus-, hiilijalanjälki-, liikennesuunnittelu-, vesiekologia- ym. mallien ja niiden dokumentaatioiden jakaminen ja verkkojulkaiseminen (ei siis pelkkien malleilla laskettujen tulosten julkaiseminen). Yksinkertaisimmillaan tämä voidaan toteuttaa koodien ja dokumentaation jakamisella esim. GitHubin kaltaisissa palveluissa mutta käyttöön on myös tulossa pidemmälle vietyjä työkaluja, jotka mahdollistavat lähitulevaisuudessa mallien jakamisen ja jatkokehittelyn paremmin kuin nyt.
+   * Tutkijoiden palkitseminen tiedon jakamisesta. Palkitsemisen ei tarvi olla rahallista.
+   * Tutkijoiden liiketoimintamahdollisuuksien luominen, esim. mallituotanto, joka jatkuvasti hyödyntää uusinta tutkimustietoa antaa erilaisia mahdollisuuksia ohjelmistoliiketoimintaan. Raja on kuitenkin vedettävä järkevästi niin että julkisella rahalla tuotetut tulokset ovat avoimia, ilmaisia ja kaikkien löydettävissä.
+
+
+Yhteentoimivuus
+Datan/rajapintojen yhteentoimivuus on ykkösasia; Suomessa sekä mahdollisuuksien mukaan kansainvälisesti. Ilman sitä ei synny kriittistä massaa käyttäjiä sovelluksille. Helsinki Region Infoshare clearing house -malli on vapaa formaatti (katalogipohja, lisenssit) jota annamme käyttöön muille. Ehdotan sen mahdollisimman laajaa käyttöönottoa (ei tietty tarvitse kutsua "HRI"ksi sitä tuolloin.
+
+EU:n avoimen datan kehitys
+Komissiolta on tulossa isoja open data -avauksia tammikuun FP7 ICT-calliin. Niissä on suomalaisten osaajien hyvä olla yhtenä rintamana mukana. Valtiovallan tuki ja mukanaolo olisi hienoa.
+
+
+Arvo-osuusrekisteri
+
+
+Postinumerodata
+
+
+
